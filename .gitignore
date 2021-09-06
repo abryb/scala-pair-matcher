@@ -1,0 +1,11 @@
+# build
+target
+project/target
+project/project
+
+# input/output test files
+/input*
+/output*
+
+# IDE
+.idea

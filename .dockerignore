@@ -1,0 +1,10 @@
+target
+project/target
+data
+
+# input/output test files
+input*.csv
+output.csv
+
+# IDE
+.idea
