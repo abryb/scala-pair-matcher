@@ -6,7 +6,7 @@ Błażej Rybarkiewicz
 
 Given list of integers it can match pairs whose sum equals to given number.
 
-`1,0,5,10,6,11,5` => (find pairs whose sum is 11) => `(1,11),(5,6),(0,11)`
+`1,0,5,10,6,11,5` => (find pairs whose sum is 11) => `(1,10),(5,6),(0,11)`
 
 ### Usage
 ```
